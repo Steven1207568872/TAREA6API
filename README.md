@@ -1,5 +1,4 @@
-<p align="center">
-    <!-- Primera imagen al 50% -->
-    <img src="https://github.com/user-attachments/assets/38a5947a-8e9d-4fa3-944c-61ac61713089" alt="Screenshot 2" width="25%">
-    
-</p>
+![image](https://github.com/user-attachments/assets/0aac058c-e3d3-4da6-805b-7ee6808ca914)
+![image](https://github.com/user-attachments/assets/e18e5a85-7d3b-45a1-ad22-7a14f0fd3f03)
+![image](https://github.com/user-attachments/assets/165e3ee1-e91b-4a2a-ac18-cb5bb3baee50)
+![Uploading image.png…]()
